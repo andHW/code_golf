@@ -1,4 +1,3 @@
-# code_golf
-My code-golf collection.
+# My Code-golf Collection
 
 Code golf sucks, but I code some anyway.
